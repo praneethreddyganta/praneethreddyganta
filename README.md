@@ -114,7 +114,7 @@ A well-organized collection of my LeetCode solutions, showcasing consistent prob
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=praneethreddyganta&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=praneethreddyganta&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
